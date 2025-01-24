@@ -4,12 +4,6 @@ A GUI-based tool to explore color palettes and apply selected colors to differen
 
 ---
 
-## Preview  
-
-![Interactive Color Palette](https://via.placeholder.com/600x400.png?text=Interactive+Color+Palette+Preview)  
-*Preview of the Interactive Color Palette GUI tool.*  
-
----
 
 ## Features  
 
@@ -30,6 +24,11 @@ A GUI-based tool to explore color palettes and apply selected colors to differen
 3. After selecting a color, the chosen shape updates immediately to reflect the new color.  
 
 ---
+## Preview  
+
+![Image](https://github.com/user-attachments/assets/111f3cea-66d9-460d-bd89-24c0f3360537)
+
+---
 
 ## Prerequisites  
 
@@ -40,5 +39,5 @@ Make sure you have Python installed on your system (version 3.6 or later).
 ## Installation  
 
 1. Clone this repository:  
-   git clone https://github.com/your-username/interactive-color-palette.git
+   git clone https://github.com/manunainala-git57/Interactive-Color-Pallete-.git 
    cd interactive-color-palette
