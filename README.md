@@ -40,4 +40,3 @@ Make sure you have Python installed on your system (version 3.6 or later).
 
 1. Clone this repository:  
    git clone https://github.com/manunainala-git57/Interactive-Color-Pallete-.git 
-   cd interactive-color-palette
